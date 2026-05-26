@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingpecrypt",
+        "uuid": 10008883,
+        "checksum": "qe7qre"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
